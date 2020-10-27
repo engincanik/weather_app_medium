@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"5190090000025620205",
+		"product_id":"736430079244660678",
+		"client_id":"469366217639986368",
+		"client_secret":"89CDB64D31F052DAC845C02853B0D513950875AD06E247B4929F6CE6A934647B",
+		"app_id":"103083407",
+		"package_name":"com.engin.hms_weather",
+		"api_key":"CgB6e3x9hAve09uweFC4gn+CvCuFKymyHV3FbWdCxnukz8eQ+Bet4wjCn2wS2479yt8fv7r7OdIunkhGqmbI2lJc"
+	},
+	"configuration_version":"1.0"
+}
