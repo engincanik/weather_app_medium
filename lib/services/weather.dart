@@ -3,7 +3,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:hms_weather/services/position.dart';
 import 'package:hms_weather/services/networking.dart';
 
-const apiKey = 'b5099f37350670a79e9c5c785a0f8325';
+const apiKey = 'YOUR_API_KEY';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
